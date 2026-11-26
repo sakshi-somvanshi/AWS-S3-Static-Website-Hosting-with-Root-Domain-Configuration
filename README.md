@@ -12,6 +12,13 @@ This project hosts a static website on **Amazon S3** and maps a **custom root do
 
 ---
 
+## Architecture
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0ec5f743-0d0e-45ee-b3ba-a1995a903879"
+       alt="Serverless EC2 Instance Scheduler Architecture"
+       width="850">
+</p>
 ## Objectives
 
 - Host a static website without managing any servers
