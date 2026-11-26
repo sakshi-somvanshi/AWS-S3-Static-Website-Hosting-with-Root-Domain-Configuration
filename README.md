@@ -15,7 +15,7 @@ This project hosts a static website on **Amazon S3** and maps a **custom root do
 ## Architecture
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ec5f743-0d0e-45ee-b3ba-a1995a903879"
+  <img src="https://github.com/sakshi-somvanshi/AWS-S3-Static-Website-Hosting-with-Root-Domain-Configuration/blob/main/Chakuli.shop%20AWS%20Hosting%20Architecture.png"
        alt="Serverless EC2 Instance Scheduler Architecture"
        width="850">
 </p>
